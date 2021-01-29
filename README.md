@@ -1,2 +1,2 @@
-# willberies
+# willberries
 willnerries - учебный проект Gloacademy
