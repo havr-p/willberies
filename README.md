@@ -1,2 +1,2 @@
 # willberries
-willnerries - учебный проект Gloacademy
+willnerries - Gloacademy training project
